@@ -21,7 +21,7 @@ export const Features = () => {
   return (
     <div className="bg-black text-white py-[72px]">
       <div className="container">
-        <h2 className="text-2xl text-center font-bold -tracking-tighter">Tudo que precisares</h2>
+        <h2 className="text-2xl text-center font-bold -tracking-tighter text-5xl">Tudo que precisares</h2>
         <p className="text-center mt-5 text-xl text-white/70">Enjoy customizable lists, team work tools, and smart tracking all in
           One place. set tasks, get reminders, and see your progress simply and quickly
         </p>
